@@ -1,0 +1,142 @@
+[
+  {
+    "id": "nsp-central-portal",
+    "name": "National Scholarship Portal (Central Ministry Schemes)",
+    "url": "https://scholarships.gov.in",
+    "category": "Government (Central)",
+    "active": true
+  },
+  {
+    "id": "aicte-schemes",
+    "name": "AICTE Student Development Schemes Portal",
+    "url": "https://www.aicte-india.org/schemes/students-development-schemes",
+    "category": "Government (Central)",
+    "active": true
+  },
+  {
+    "id": "dst-inspire-portal",
+    "name": "Department of Science and Technology INSPIRE Portal",
+    "url": "https://online-inspire.gov.in",
+    "category": "Government (Central)",
+    "active": true
+  },
+  {
+    "id": "pmrf-fellowship-portal",
+    "name": "Prime Minister's Research Fellowship (PMRF) Portal",
+    "url": "https://www.pmrf.in",
+    "category": "Government (Central)",
+    "active": true
+  },
+  {
+    "id": "mahadbt-state-portal",
+    "name": "MahaDBT Maharashtra State Scholarship Portal",
+    "url": "https://mahadbt.maharashtra.gov.in",
+    "category": "Government (State)",
+    "active": true
+  },
+  {
+    "id": "karnataka-ssp-portal",
+    "name": "Karnataka State Scholarship Portal (SSP)",
+    "url": "https://ssp.postmatric.karnataka.gov.in",
+    "category": "Government (State)",
+    "active": true
+  },
+  {
+    "id": "wb-svmcm-portal",
+    "name": "Swami Vivekananda Merit-cum-Means Portal (WB)",
+    "url": "https://svmcm.wbhed.gov.in",
+    "category": "Government (State)",
+    "active": true
+  },
+  {
+    "id": "reliance-foundation-scholarships",
+    "name": "Reliance Foundation Scholarships Portal",
+    "url": "https://www.scholarships.reliancefoundation.org",
+    "category": "Corporate CSR",
+    "active": true
+  },
+  {
+    "id": "tata-trusts-grants",
+    "name": "Tata Trusts Education Grants Portal",
+    "url": "https://www.tatatrusts.org/our-work/individual-grants-programme/education-grants",
+    "category": "Corporate CSR",
+    "active": true
+  },
+  {
+    "id": "hdfc-parivartan-portal",
+    "name": "HDFC Bank Parivartan's ECSS Official Portal",
+    "url": "https://www.hdfcbank.com/personal/about-us/corporate-social-responsibility/parivartan/educational-crisis-scholarship-support",
+    "category": "Corporate CSR",
+    "active": true
+  },
+  {
+    "id": "infosys-stem-stars",
+    "name": "Infosys Foundation STEM Stars Scholarship",
+    "url": "https://www.infosys.com/infosys-foundation/initiatives/education/stem-stars.html",
+    "category": "Corporate CSR",
+    "active": true
+  },
+  {
+    "id": "loreal-for-women-in-science",
+    "name": "L'Or\u00e9al India For Young Women In Science",
+    "url": "https://www.loreal.com/en/india/articles/commitments/for-women-in-science-india",
+    "category": "Corporate CSR",
+    "active": true
+  },
+  {
+    "id": "aditya-birla-scholars",
+    "name": "Aditya Birla Group Scholarship Program",
+    "url": "https://www.adityabirlascholars.net",
+    "category": "Corporate CSR",
+    "active": true
+  },
+  {
+    "id": "sitaram-jindal-foundation",
+    "name": "Sitaram Jindal Foundation Scholarship Scheme",
+    "url": "https://www.sitaramjindalfoundation.org/scholarships.php",
+    "category": "Corporate CSR",
+    "active": true
+  },
+  {
+    "id": "kc-mahindra-trust",
+    "name": "K. C. Mahindra Education Trust Postgraduate Scholarships",
+    "url": "https://www.kcmet.org/what-we-do-scholarships.aspx",
+    "category": "Foundation / Trust",
+    "active": true
+  },
+  {
+    "id": "narotam-sekhsaria-foundation",
+    "name": "Narotam Sekhsaria Foundation PG Scholarships",
+    "url": "https://pg.nsfoundation.co.in",
+    "category": "Foundation / Trust",
+    "active": true
+  },
+  {
+    "id": "inlaks-shivdasani-foundation",
+    "name": "Inlaks Shivdasani Foundation Scholarships",
+    "url": "https://www.inlaksfoundation.org/scholarships/opportunities",
+    "category": "Foundation / Trust",
+    "active": true
+  },
+  {
+    "id": "jn-tata-endowment",
+    "name": "J. N. Tata Endowment for Higher Education of Indians",
+    "url": "https://www.jntataendowment.org/loan-scholarship",
+    "category": "Foundation / Trust",
+    "active": true
+  },
+  {
+    "id": "iisc-fellowships",
+    "name": "IISc Integrated PhD & M.Tech Research Fellowships",
+    "url": "https://iisc.ac.in/admissions/financial-support",
+    "category": "University / Institution",
+    "active": true
+  },
+  {
+    "id": "iitb-merit-cum-means",
+    "name": "IIT Bombay Merit-cum-Means (MCM) Scholarship",
+    "url": "https://www.iitb.ac.in/newacadhome/scholarship.jsp",
+    "category": "University / Institution",
+    "active": true
+  }
+]
